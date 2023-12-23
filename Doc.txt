@@ -1,0 +1,10 @@
+User-service 
+    port:9001
+Contact-service 
+    port:9002
+
+Eureka server
+    port:8761
+
+Api gateway - service 
+    port:8999
